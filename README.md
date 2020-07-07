@@ -11,6 +11,6 @@ To add, remove or change things on the list:
 
 ## General/Unclassified
 
-- [Single Producer, Single Consumer Queue (,Single Thread)](https://github.com/SteveZhangSZ/ConstexprCircularQueue)
+- [Single Producer, Single Consumer (and Single Thread!) Queue](https://github.com/SteveZhangSZ/ConstexprCircularQueue)
 
 
