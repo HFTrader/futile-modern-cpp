@@ -17,6 +17,6 @@ The problem here is not the project itself but the lack of usefulness. 80% of th
 
 - [String Split Saga](https://brevzin.github.io/c++/2020/07/06/split-view/) continued. How NOT to split a string, C++ style. Quoting the text: 
 
-    C++20’s views::split is somewhat disappointing in that it isn’t very ergonomic for the most common case: splitting a string.
+    *C++20’s views::split is somewhat disappointing in that it isn’t very ergonomic for the most common case: splitting a string.*
 
 
